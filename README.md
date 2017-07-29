@@ -11,3 +11,4 @@
   * [gr-etcetera](https://github.com/gnuradio/gr-etcetera)
 * [Practical Signal Processing](https://www.amazon.com/Practical-Signal-Processing-Mark-Owen/dp/1107411823)
 * [Complete Wireless Design](https://www.amazon.com/gp/product/0071544526/)
+* [POC||GTFO 0x8 - A Protocol for Leibowitz](https://www.alchemistowl.org/pocorgtfo/pocorgtfo08.pdf)
